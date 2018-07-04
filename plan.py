@@ -2,10 +2,6 @@
 ###  Planner module
 ################################
 
-## Abdou's key
-KEY_PLANNER = 'b3c091d5ffdf49d2b2bfaea153c905d9'
-KEY_LOCATER = 'cf745532e18d426f8f3a40933f2fbc51'
-
 ## used packages
 import requests
 
